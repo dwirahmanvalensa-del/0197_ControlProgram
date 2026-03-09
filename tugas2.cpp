@@ -18,3 +18,4 @@ string status_lulus2(float r){
     else
         return "gagal";
 }
+int main(){}
