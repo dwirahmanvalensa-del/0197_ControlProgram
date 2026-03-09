@@ -11,3 +11,10 @@ string Status_lulus(float r){
     else
         return "gagal";
 }
+
+string status_lulus2(float r){
+    if (r >= 60)
+        return "lolos";
+    else
+        return "gagal";
+}
